@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.julius.queueMe.customer.Cust_Gallery">
+
+    <include layout="@layout/content_queue_desc" />
+
+    <Button
+        android:id="@+id/joinQ"
+        style="@style/floatJoinQ"
+        android:text="@string/join_queue_floating"
+        android:background="@drawable/primary_float_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="20dp"
+        android:padding="16dp" />
+
+
+</android.support.design.widget.CoordinatorLayout>

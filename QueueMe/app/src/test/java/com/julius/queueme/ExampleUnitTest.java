@@ -1,4 +1,4 @@
-package com.julius.queueme;
+package gcsenxmk.q;
 
 import org.junit.Test;
 

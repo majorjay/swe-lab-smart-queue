@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805462404574",
+    "project_id": "queueme-a683b",
+    "storage_bucket": "queueme-a683b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805462404574:android:4a312daf52abe92ab4414f",
+        "android_client_info": {
+          "package_name": "com.julius.queueMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805462404574-f4mae2b4l70b3oq9lhu6nkq5amdvpcki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrvbg3u4pSetdZHr_Vtgf5w2ZboXzU1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805462404574-f4mae2b4l70b3oq9lhu6nkq5amdvpcki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
